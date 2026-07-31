@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedance 2.5 视频提示词导演"
+  short_description: "把创意、剧本和素材编译为可直接生成与编辑的 Seedance 2.5 提示词"
+  default_prompt: "Use $seedance-2-5-video-prompt to turn my AI video idea into a production-ready Seedance 2.5 prompt package."
